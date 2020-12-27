@@ -1,0 +1,2 @@
+erotex-example.tex | sesh > hierotex-example-2.tex
+latex hierotex-example-2.tex

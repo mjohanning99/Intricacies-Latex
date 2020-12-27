@@ -1,0 +1,14 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface to second edition}{{\fontencoding {T1}\selectfont i}}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{About me}{{\fontencoding {T1}\selectfont ii}}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{The Hieroglyphics}{2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Who deciphered the Hieroglyphs?}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{A Dictionary of Hieroglyphs}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{What is the meaning of ``Hieroglyph''?}{1}%

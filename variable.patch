@@ -1,0 +1,22 @@
+--- variable.old.mk	2013-10-14 21:22:31.529384855 +1100
++++ variable.mk	2013-10-14 21:22:12.257412683 +1100
+@@ -23,13 +23,13 @@
+ 
+ # If you want a user installation of hierotex, without root access,
+ # the following values may help you. Uncomment them if needed.
+-DESTDIR=$(HOME)
+-BINDIR=$(DESTDIR)/bin
+-TEXROOT=$(DESTDIR)/texmf
+-TEXSTYLE=$(TEXROOT)/tex/latex/hierotex
+-FONTDIR=$(TEXROOT)/fonts/source/public/hierotex
++#DESTDIR=$(HOME)
++#BINDIR=$(DESTDIR)/bin
++#TEXROOT=$(DESTDIR)/texmf
++#TEXSTYLE=$(TEXROOT)/tex/latex/hierotex
++#FONTDIR=$(TEXROOT)/fonts/source/public/hierotex
+ TEXDOC=$(TEXROOT)/doc/latex/hierotex
+-SESHDIR=$(DESTDIR)/lib/sesh
++#SESHDIR=$(DESTDIR)/lib/sesh
+ 
+ ##############################################################################
+ # Programs used in the installation process

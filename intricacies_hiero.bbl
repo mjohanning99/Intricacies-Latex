@@ -1,0 +1,249 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{lettre}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=323b2a72b558ceb9631ac072f3e415ba}{%
+           family={Champollion},
+           familyi={C\bibinitperiod},
+           given={Jean-François},
+           giveni={J\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=eb58e8607535584840036701118e12fd}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={Rhys},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{323b2a72b558ceb9631ac072f3e415ba}
+      \strng{fullhash}{323b2a72b558ceb9631ac072f3e415ba}
+      \strng{bibnamehash}{323b2a72b558ceb9631ac072f3e415ba}
+      \strng{authorbibnamehash}{323b2a72b558ceb9631ac072f3e415ba}
+      \strng{authornamehash}{323b2a72b558ceb9631ac072f3e415ba}
+      \strng{authorfullhash}{323b2a72b558ceb9631ac072f3e415ba}
+      \strng{translatorbibnamehash}{eb58e8607535584840036701118e12fd}
+      \strng{translatornamehash}{eb58e8607535584840036701118e12fd}
+      \strng{translatorfullhash}{eb58e8607535584840036701118e12fd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lettre à M. Dacier. Letter to M. Dacier}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{nilenotes}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ade1e1fbb058e3a76a067f6be30a15d3}{%
+           family={E.\bibnamedelimi A.},
+           familyi={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Wallis\bibnamedelima Budge},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ade1e1fbb058e3a76a067f6be30a15d3}
+      \strng{fullhash}{ade1e1fbb058e3a76a067f6be30a15d3}
+      \strng{bibnamehash}{ade1e1fbb058e3a76a067f6be30a15d3}
+      \strng{authorbibnamehash}{ade1e1fbb058e3a76a067f6be30a15d3}
+      \strng{authornamehash}{ade1e1fbb058e3a76a067f6be30a15d3}
+      \strng{authorfullhash}{ade1e1fbb058e3a76a067f6be30a15d3}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Nile. Notes for Travellers in Egypt.}
+      \field{year}{1905}
+    \endentry
+    \entry{lostlanguages}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6863de08ae4fa9559a349f4fa0bc5934}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6863de08ae4fa9559a349f4fa0bc5934}
+      \strng{fullhash}{6863de08ae4fa9559a349f4fa0bc5934}
+      \strng{bibnamehash}{6863de08ae4fa9559a349f4fa0bc5934}
+      \strng{authorbibnamehash}{6863de08ae4fa9559a349f4fa0bc5934}
+      \strng{authornamehash}{6863de08ae4fa9559a349f4fa0bc5934}
+      \strng{authorfullhash}{6863de08ae4fa9559a349f4fa0bc5934}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lost Languages: The Engima of the World's Undeciphered Scripts}
+      \field{year}{2009}
+    \endentry
+    \entry{wahshiyya}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e4d34f16eac84d4597f80ba5c395dc2}{%
+           family={Wahshiyya},
+           familyi={W\bibinitperiod},
+           given={Ibn},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=6b4f279ad8ea3657f07ff3f9d5fd90d8}{%
+           family={Hammer-Purgstall},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e4d34f16eac84d4597f80ba5c395dc2}
+      \strng{fullhash}{2e4d34f16eac84d4597f80ba5c395dc2}
+      \strng{bibnamehash}{2e4d34f16eac84d4597f80ba5c395dc2}
+      \strng{authorbibnamehash}{2e4d34f16eac84d4597f80ba5c395dc2}
+      \strng{authornamehash}{2e4d34f16eac84d4597f80ba5c395dc2}
+      \strng{authorfullhash}{2e4d34f16eac84d4597f80ba5c395dc2}
+      \strng{translatorbibnamehash}{6b4f279ad8ea3657f07ff3f9d5fd90d8}
+      \strng{translatornamehash}{6b4f279ad8ea3657f07ff3f9d5fd90d8}
+      \strng{translatorfullhash}{6b4f279ad8ea3657f07ff3f9d5fd90d8}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ancient Alphabets and Hieroglyphic Characters Explained: With an Account of the Egyptian Priests, Their Classes, Initiation and Sacrifices}
+      \field{year}{1806}
+    \endentry
+    \entry{NYC:Ernst_Grab54}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38e36f31ddbec1148d28aa8ab3cb4b02}{%
+           family={Weidenbach},
+           familyi={W\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {General Research Division, The New York Public Library.}%
+      }
+      \strng{namehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{fullhash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{bibnamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authorbibnamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authornamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authorfullhash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Altes Reich. Dynastie IV, V. Pyramiden von Giseh [Jîzah]: Grab 54}
+      \field{year}{1849 - 1856}
+      \verb{urlraw}
+      \verb http://digitalcollections.nypl.org/items/510d47d9-58ca-a3d9-e040-e00a18064a99
+      \endverb
+      \verb{url}
+      \verb http://digitalcollections.nypl.org/items/510d47d9-58ca-a3d9-e040-e00a18064a99
+      \endverb
+    \endentry
+    \entry{NYC:Ernst_1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38e36f31ddbec1148d28aa8ab3cb4b02}{%
+           family={Weidenbach},
+           familyi={W\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {General Research Division, The New York Public Library.}%
+      }
+      \strng{namehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{fullhash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{bibnamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authorbibnamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authornamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authorfullhash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neues Reich. Dynastie XVIII. Theben [Thebes]. Qurnet Murrâi [Blatt 4], Linke Hinterwand [e].}
+      \field{year}{1849 - 1856}
+      \verb{urlraw}
+      \verb http://digitalcollections.nypl.org/items/510d47d9-5987-a3d9-e040-e00a18064a99
+      \endverb
+      \verb{url}
+      \verb http://digitalcollections.nypl.org/items/510d47d9-5987-a3d9-e040-e00a18064a99
+      \endverb
+    \endentry
+    \entry{NYC:Ernst_Ptolost}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38e36f31ddbec1148d28aa8ab3cb4b02}{%
+           family={Weidenbach},
+           familyi={W\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {General Research Division, The New York Public Library.}%
+      }
+      \strng{namehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{fullhash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{bibnamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authorbibnamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authornamehash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \strng{authorfullhash}{38e36f31ddbec1148d28aa8ab3cb4b02}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ptolemaeer. Ptol. VII Philometor I. Philae; a. Architrav Aus Tempel P; b. Tempel K. Stele Auf Dem Granitfelsen Unter Dem Östlichen Pylon.}
+      \field{year}{1849 - 1856}
+      \verb{urlraw}
+      \verb http://digitalcollections.nypl.org/items/510d47d9-5a3f-a3d9-e040-e00a18064a99
+      \endverb
+      \verb{url}
+      \verb http://digitalcollections.nypl.org/items/510d47d9-5a3f-a3d9-e040-e00a18064a99
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

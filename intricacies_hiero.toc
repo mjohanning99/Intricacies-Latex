@@ -1,0 +1,36 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface to second edition}{i}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{About me}{ii}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{History and general information}{2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Who deciphered the Hieroglyphs?}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{A Dictionary of Hieroglyphs}{9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{What is the meaning of ``Hieroglyph''?}{11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Learning the Egyptian Hieroglyphs}{14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{The direction of reading}{14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{The two varieties}{17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Unilaterals and Latinisation}{23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bi- and trilaterals}{28}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Determinatives and ideograms}{30}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Numbers and dates}{32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of bilateral hieroglyphs}{36}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of trilateral hieroglyphs}{37}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Solutions to exercises}{38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Bibliography}{39}%

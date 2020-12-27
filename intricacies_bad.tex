@@ -1,0 +1,185 @@
+\documentclass[a5paper,twoside,12pt]{report}
+
+%%%%%%%%%% Packages %%%%%%%%%%
+\usepackage[outer=2cm, inner=2cm]{geometry}
+\usepackage{hiero}
+\usepackage{egypto}
+\usepackage[backend=biber, style=authoryear-icomp]{biblatex}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[greek,english]{babel} 
+\usepackage{epigraph}
+\usepackage{lmodern}
+\usepackage{afterpage}
+\usepackage{nonumonpart}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage{titling} 
+\usepackage[T1]{fontenc}
+\usepackage{bold-extra}
+\usepackage{listings}
+\usepackage{xcolor}
+% \usepackage{draftwatermark}
+\makeindex
+
+\addbibresource{bibliography.bib}
+\TextHieroglyphs
+
+% \SetWatermarkText{Preview}
+\newlength\longest
+\setlength{\marginparwidth}{0pt}
+\setlength{\headheight}{15pt}
+
+\titleformat{\section}[wrap]
+{\normalfont\bfseries}
+{\thesection.}{0.5em}{}
+\titlespacing{\section}{12pc}{1.5ex plus .1ex minus .2ex}{1pc}
+
+\definecolor{backcolor}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+      backgroundcolor=\color{backcolor},
+      basicstyle=\ttfamily\footnotesize,
+      breakatwhitespace=false,         
+      breaklines=true,                 
+      captionpos=b,                    
+      keepspaces=true,                 
+      numbers=left,                    
+      numbersep=5pt,                  
+      showspaces=false,                
+      showstringspaces=false,
+      showtabs=false,                  
+      tabsize=2
+}
+\lstset{style=mystyle}
+%%%%%%%%%% Fancy HDR %%%%%%%%%%
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\nouppercase{\leftmark}}
+\fancyhead[RE]{\textsc{The Intricacies of Ancient Egyptian Hieroglyphics}}
+\fancypagestyle{plain}{
+\fancyhf{} 
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\leftmark}
+\fancyhead[RE]{\textsc{The Intricacies of Ancient Egyptian Hieroglyphics}}}
+
+\begin{document}
+\pagenumbering{gobble} 
+
+%%%%%%%%%% Pretitle %%%%%%%%%%
+\thispagestyle{empty}
+\begin{center}
+	\includegraphics[scale=0.162]{cover.png}
+\end{center}
+\newpage
+
+%%%%%%%%%% EMPTY PAGE %%%%%%%%%% 
+\thispagestyle{empty}
+  \mbox{}
+  \newpage
+
+%%%%%%%%%% Posttitle %%%%%%%%%% 
+\title{%
+  The Intricacies of Ancient Egyptian Hieroglyphics\\
+  \begin{center}
+    \textit{Learning the basics of the Ancient Egyptian writing system; for complete beginnners}
+  \end{center}
+}
+\author{By Marvin Johanning}
+\date{}
+\maketitle
+
+%%%%%%%%%% Copyright and Impressum %%%%%%%%%%
+\thispagestyle{empty}
+\noindent\textsc{\underline{Text}}: © Copyright 2020 Marvin Johanning
+
+\noindent\textsc{\underline{Cover design}}: © Copyright 2020 Marvin Johanning
+
+\noindent© 2020 by Marvin Johanning\\``The Intricacies of Ancient Egyptian Hieroglyphics: Learning the basics of the Ancient Egyptian writing systems; for complete beginners'' by Marvin Johanning is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecom\\mons.org/licenses/by-nc-sa/4.0.
+
+\vspace{10mm}\noindent\textsc{Publishing}: \\
+Marvin Johanning\\
+Salzufler Str. 66\\
+33719 Bielefeld\\
+info@marvinjohanning.de
+
+\vspace{5mm}\noindent\textsc{Printing}: epubli – ein Service der neopubli GmbH, Berlin
+\newpage
+
+%%%%%%%%%% Introductory quote %%%%%%%%%%
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+\begin{hieroglyph}
+	i*w-O34:S-Y4-n-A1-m-DA-t:Y1-t:n-n:E9-w-E14
+	mr-(i*i)-A1-n:y-M:wr
+	nfr-f:r-w*y-T:n
+\end{hieroglyph}
+\null\vfill
+\vfill\vfill
+\clearpage\newpage
+\end{center}
+\newpage
+
+%%%%%%%%%% Table of Contents %%%%%%%%%%
+\tableofcontents
+\newpage
+
+%%%%%%%%%% Introduction %%%%%%%%%%
+\pagenumbering{roman}
+\chapter*{Preface to second edition}
+  \markboth{Preface to second edition}{Preface to second edition}
+  \addcontentsline{toc}{chapter}{Preface to second edition}
+	CONTENT HERE
+
+	\newpage
+
+	%%%%%%%%%% About %%%%%%%%%%
+	\chapter*{About me}
+		\markboth{About me}{About me}
+		\addcontentsline{toc}{chapter}{About me}
+
+		My name is Marvin Johanning, I am twenty-one years old and currently reside in a city many deem to not exist — which, obviously, is untrue for I \textit{do} live here and surely I am real. I like writing things even though, perhaps, I am not great at it; yet I enjoy doing so and only through practice can you improve, which is why I write as much as possible as frequently as I can.
+
+		I have recently switched from writing in LibreOffice to \LaTeX, as LibreOffice has proven itself to be headache-inducing when working with large amounts of text which you wish to reformat at a later date. 
+
+		I tend to write about things relating to languages — be it real or programming languages —, computers and, though rarely, politics. All of these can be found on my website. My biggest writing project to-date is \textit{The Intricacies of Ancient Egyptian Hieroglyphics} (ISBN: 978-3-752952-49-0), which incidentally, was what led me to use \LaTeX, information regarding which can, too, be found on my website.
+		\newpage
+
+
+%%%%%%%%%% Empty page %%%%%%%%%%
+\pagenumbering{gobble}
+\thispagestyle{empty}
+  \mbox{}
+  \newpage
+
+%%%%%%%%%% Beginning of text itself %%%%%%%%%%
+\pagenumbering{arabic}
+\part*{The Hieroglyphics}
+  \markboth{The Hieroglyphics}{The Hieroglyphics}
+  \addcontentsline{toc}{part}{The Hieroglyphics}
+  \newpage
+
+\thispagestyle{empty}
+  \mbox{}
+  \newpage
+
+\include{whodeciphered}
+\include{adictionary}
+\include{meaning}
+
+%%% APPENDIX %%%
+\pagenumbering{arabic}
+\part*{Appendix}
+  \markboth{Bibliography}{Bibliography}
+  \addcontentsline{toc}{part}{Bibliography}
+  \newpage
+  \printbibliography
+
+\end{document}

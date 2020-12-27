@@ -1,0 +1,1089 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.11.8)  15 NOV 2020 11:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**intricacies.tex
+(./intricacies.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count172
+\Gm@cntv=\count173
+\c@Gm@tempcnt=\count174
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/home/sophon/texmf/tex/latex/hierotex/hiero.sty
+Package: hiero 2001/11/22 hieroglyphic package for Latex V2.8
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\Htm=\dimen145
+\Htmi=\dimen146
+\Htmii=\dimen147
+\Htmiii=\dimen148
+\Htmiiii=\dimen149
+\Htmiiiii=\dimen150
+\Htm@=\dimen151
+\@Hauteur=\count175
+\@HauteurW=\count176
+\@HauteurH=\count177
+\cartoucheBox=\box45
+\@Lower=\dimen152
+\@fillerHeight=\dimen153
+\cartoucheLineWidth=\dimen154
+\HachureBoxII=\box46
+\HachureBoxIII=\box47
+\ShadingBox=\box48
+\ShadingBoxA=\box49
+\ShadingBoxB=\box50
+\ShadingBoxC=\box51
+\ShadingBoxD=\box52
+\largeur@colonne=\dimen155
+)
+(/home/sophon/texmf/tex/latex/hierotex/egypto.sty
+egypto.sty V2.0a (second NUMBERED VERSION :-)
+(/home/sophon/texmf/tex/latex/hierotex/EgypUtil.sty)
+(/home/sophon/texmf/tex/latex/hierotex/OT1diacr.fd)
+\numeroligne=\count178
+\numeropage=\count179
+\diconame=\write3
+Invalid UTF-8 byte or sequence at line 270 replaced by U+FFFD.
+\c@exemple=\count180
+\boiteA=\box53
+\boiteB=\box54
+\tmpdim=\dimen156
+)
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(/usr/share/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count181
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count182
+
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count183
+\c@listtotal=\count184
+\c@listcount=\count185
+\c@liststart=\count186
+\c@liststop=\count187
+\c@citecount=\count188
+\c@citetotal=\count189
+\c@multicitecount=\count190
+\c@multicitetotal=\count191
+\c@instcount=\count192
+\c@maxnames=\count193
+\c@minnames=\count194
+\c@maxitems=\count195
+\c@minitems=\count196
+\c@citecounter=\count197
+\c@maxcitecounter=\count198
+\c@savedcitecounter=\count199
+\c@uniquelist=\count266
+\c@uniquename=\count267
+\c@refsection=\count268
+\c@refsegment=\count269
+\c@maxextratitle=\count270
+\c@maxextratitleyear=\count271
+\c@maxextraname=\count272
+\c@maxextradate=\count273
+\c@maxextraalpha=\count274
+\c@abbrvpenalty=\count275
+\c@highnamepenalty=\count276
+\c@lownamepenalty=\count277
+\c@maxparens=\count278
+\c@parenlevel=\count279
+\blx@tempcnta=\count280
+\blx@tempcntb=\count281
+\blx@tempcntc=\count282
+\blx@maxsection=\count283
+\blx@maxsegment@0=\count284
+\blx@notetype=\count285
+\blx@parenlevel@text=\count286
+\blx@parenlevel@foot=\count287
+\blx@sectionciteorder@0=\count288
+\blx@entrysetcounter=\count289
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\blx@langwohyphens=\language86
+\c@mincomprange=\count290
+\c@maxcomprange=\count291
+\c@mincompwidth=\count292
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear-icomp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count293
+\c@savedafterword=\count294
+\c@annotator=\count295
+\c@savedannotator=\count296
+\c@author=\count297
+\c@savedauthor=\count298
+\c@bookauthor=\count299
+\c@savedbookauthor=\count300
+\c@commentator=\count301
+\c@savedcommentator=\count302
+\c@editor=\count303
+\c@savededitor=\count304
+\c@editora=\count305
+\c@savededitora=\count306
+\c@editorb=\count307
+\c@savededitorb=\count308
+\c@editorc=\count309
+\c@savededitorc=\count310
+\c@foreword=\count311
+\c@savedforeword=\count312
+\c@holder=\count313
+\c@savedholder=\count314
+\c@introduction=\count315
+\c@savedintroduction=\count316
+\c@namea=\count317
+\c@savednamea=\count318
+\c@nameb=\count319
+\c@savednameb=\count320
+\c@namec=\count321
+\c@savednamec=\count322
+\c@translator=\count323
+\c@savedtranslator=\count324
+\c@shortauthor=\count325
+\c@savedshortauthor=\count326
+\c@shorteditor=\count327
+\c@savedshorteditor=\count328
+\c@labelname=\count329
+\c@savedlabelname=\count330
+\c@institution=\count331
+\c@savedinstitution=\count332
+\c@lista=\count333
+\c@savedlista=\count334
+\c@listb=\count335
+\c@savedlistb=\count336
+\c@listc=\count337
+\c@savedlistc=\count338
+\c@listd=\count339
+\c@savedlistd=\count340
+\c@liste=\count341
+\c@savedliste=\count342
+\c@listf=\count343
+\c@savedlistf=\count344
+\c@location=\count345
+\c@savedlocation=\count346
+\c@organization=\count347
+\c@savedorganization=\count348
+\c@origlocation=\count349
+\c@savedoriglocation=\count350
+\c@origpublisher=\count351
+\c@savedorigpublisher=\count352
+\c@publisher=\count353
+\c@savedpublisher=\count354
+\c@language=\count355
+\c@savedlanguage=\count356
+\c@origlanguage=\count357
+\c@savedoriglanguage=\count358
+\c@pageref=\count359
+\c@savedpageref=\count360
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count361
+\c@textcitetotal=\count362
+\c@textcitemaxnames=\count363
+\c@biburlbigbreakpenalty=\count364
+\c@biburlbreakpenalty=\count365
+\c@biburlnumpenalty=\count366
+\c@biburlucpenalty=\count367
+\c@biburllcpenalty=\count368
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count369
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear-icomp'...
+Package biblatex Info: ... file 'authoryear-icomp.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/authoryear-icomp.bbx
+File: authoryear-icomp.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count370
+\c@bbx:relatedtotal=\count371
+)))
+Package biblatex Info: Trying to load citation style 'authoryear-icomp'...
+Package biblatex Info: ... file 'authoryear-icomp.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/cbx/authoryear-icomp.cbx
+File: authoryear-icomp.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip71
+\f@nch@O@elh=\skip72
+\f@nch@O@erh=\skip73
+\f@nch@O@olh=\skip74
+\f@nch@O@orh=\skip75
+\f@nch@O@elf=\skip76
+\f@nch@O@erf=\skip77
+\f@nch@O@olf=\skip78
+\f@nch@O@orf=\skip79
+)
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks17
+\MT@count=\count372
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen157
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count373
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2019/11/18 v2.7d Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 258.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen158
+\WF@size=\dimen159
+\c@WF@wrappedlines=\count374
+\WF@box=\box55
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip80
+\enit@outerparindent=\dimen160
+\enit@toks=\toks19
+\enit@inbox=\box56
+\enit@count@id=\count375
+\enitdp@description=\count376
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip81
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen161
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen162
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count377
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count378
+\leftroot@=\count379
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count380
+\DOTSCASE@=\count381
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+\big@size=\dimen163
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count382
+\c@MaxMatrixCols=\count383
+\dotsspace@=\muskip21
+\c@parentequation=\count384
+\dspbrk@lvl=\count385
+\tag@help=\toks21
+\row@=\count386
+\column@=\count387
+\maxfields@=\count388
+\andhelp@=\toks22
+\eqnshift@=\dimen164
+\alignsep@=\dimen165
+\tagshift@=\dimen166
+\tagwidth@=\dimen167
+\totwidth@=\dimen168
+\lineht@=\dimen169
+\@envbody=\toks23
+\multlinegap=\skip82
+\multlinetaggap=\skip83
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/05/13 3.44 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count389
+\U@D=\dimen170
+\l@babelnohyphens=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count390
+
+(/usr/share/texmf-dist/tex/generic/babel-greek/greek.ldf
+Language: greek 2020/03/17 v1.9j Greek support for the babel system
+\bbl@monogreek=\count391
+\bbl@polygreek=\count392
+\bbl@ancientgreek=\count393
+
+(/usr/share/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2019/07/09 v0.13.3 LGR Greek font encoding definitions
+
+(/usr/share/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2015/08/04 v0.13.4 Common Greek font encoding definitio
+ns
+))
+LaTeX Info: Redefining \& on input line 116.
+)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+))
+(/usr/share/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(/usr/share/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip84
+\afterepigraphskip=\skip85
+\epigraphwidth=\skip86
+\epigraphrule=\skip87
+)
+(/usr/share/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks27
+\AP@partial=\box59
+\AP@footins=\box60
+)
+(/usr/share/texmf-dist/tex/latex/nonumonpart/nonumonpart.sty
+Package: nonumonpart 2011/04/15 v1 nonumonpart.sty by Le TeXnicien de surface
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box61
+\beforetitleunit=\skip88
+\aftertitleunit=\skip89
+\ttl@plus=\dimen171
+\ttl@minus=\dimen172
+\ttl@toksa=\toks28
+\titlewidth=\dimen173
+\titlewidthlast=\dimen174
+\titlewidthfirst=\dimen175
+)
+(/usr/share/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip90
+\thanksmargin=\skip91
+\droptitle=\skip92
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texmf-dist/tex/latex/bold-extra/bold-extra.sty
+Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count394
+\lst@gtempboxa=\box62
+\lst@token=\toks29
+\lst@length=\count395
+\lst@currlwidth=\dimen176
+\lst@column=\count396
+\lst@pos=\count397
+\lst@lostspace=\dimen177
+\lst@width=\dimen178
+\lst@newlines=\count398
+\lst@lineno=\count399
+\lst@maxwidth=\dimen179
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count400
+\lst@skipnumbers=\count401
+\lst@framebox=\box63
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+\@indexfile=\write5
+
+Writing index file intricacies.idx
+\longest=\skip93
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count402
+\@quotereset=\count403
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-06-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count404
+\l__pdf_internal_box=\box64
+\g__pdf_backend_object_int=\count405
+\g__pdf_backend_annotation_int=\count406
+)
+(./intricacies.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+2.
+ (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 72.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 7
+2.
+
+(/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 72.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 307.28978pt, 56.9055pt)
+* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=307.28978pt
+* \textheight=418.25368pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-37.56833pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'greek'...
+Package biblatex Info: ... file 'greek.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/greek.lbx
+File: greek.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'intricacies.bbl' found.
+ (./intricacies.bbl)
+Package biblatex Info: Reference section=0 on input line 72.
+Package biblatex Info: Reference segment=0 on input line 72.
+LaTeX Info: Redefining \microtypecontext on input line 72.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+
+(/usr/share/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package nonumonpart Info: The command \@endpart is redefined.
+\c@lstlisting=\count407
+File: cover.png Graphic file (type bmp)
+<cover.png>
+ [1
+
+]
+[2]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
+6.
+ (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmr' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
+6.
+
+(/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+96.
+
+(/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+96.
+
+(/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 96.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 96.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 96.
+ [1]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 100.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 100.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 100.
+Missing character: There is no – in font ec-lmr12!
+ [2] [3
+
+] (./intricacies.toc)
+\tf@toc=\write6
+
+Package Fancyhdr Warning: \headheight is too small (15.0pt): 
+Make it at least 27.11653pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[4
+
+
+] [1
+
+]
+Missing character: There is no — in font ec-lmr12!
+
+Overfull \hbox (6.21112pt too wide) in paragraph at lines 150--151
+\T1/lmr/m/n/12 L[]T[]X, as Li-bre-Of-fice has proven it-self to be headache-ind
+ucing
+ []
+
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+[2
+
+] [1] [1
+
+] [2]
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no ‘ in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 178.
+
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+ [3
+
+]
+Missing character: There is no ’ in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no ’ in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+
+[4]
+
+LaTeX Warning: Citation 'wahshiyya' on page 5 undefined on input line 184.
+
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+
+LaTeX Warning: Citation 'wahshiyya' on page 5 undefined on input line 184.
+
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no ’ in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+
+LaTeX Warning: Citation 'wahshiyya' on page 5 undefined on input line 184.
+
+Missing character: There is no — in font ec-lmr12!
+
+Overfull \hbox (7.27658pt too wide) in paragraph at lines 184--186
+\T1/lmr/m/n/12 glyphic script is The Her-me-sian Al-pha-bet ([]) which,
+ []
+
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no … in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+
+LaTeX Warning: Citation 'wahshiyya' on page 5 undefined on input line 187.
+
+[5]
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no – in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr10!
+Missing character: There is no ” in font ec-lmr10!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr10!
+Missing character: There is no ” in font ec-lmr10!
+ [6]
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr10!
+Missing character: There is no … in font ec-lmr10!
+Missing character: There is no “ in font ec-lmr10!
+
+
+LaTeX Warning: Citation 'nilenotes' on page 7 undefined on input line 195.
+
+
+LaTeX Warning: Citation 'nilenotes' on page 7 undefined on input line 195.
+
+[7]
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+
+
+LaTeX Warning: Citation 'lostlanguages' on page 8 undefined on input line 197.
+
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+LaTeX Font Info:    Trying to load font information for LGR+lmr on input line 2
+00.
+(/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
+File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
+)
+Missing character: There is no Π in font grmn1200!
+Missing character: There is no τ in font grmn1200!
+Missing character: There is no ο in font grmn1200!
+Missing character: There is no λ in font grmn1200!
+Missing character: There is no ε in font grmn1200!
+Missing character: There is no μ in font grmn1200!
+Missing character: There is no α in font grmn1200!
+Missing character: There is no ῖ in font grmn1200!
+Missing character: There is no ο in font grmn1200!
+Missing character: There is no ς in font grmn1200!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no ’ in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr10!
+Missing character: There is no … in font ec-lmr10!
+Missing character: There is no … in font ec-lmr10!
+Missing character: There is no … in font ec-lmr10!
+Missing character: There is no “ in font ec-lmr10!
+
+
+LaTeX Warning: Citation 'lettre' on page 8 undefined on input line 203.
+
+Missing character: There is no — in font ec-lmr12!
+[8]
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no Κ in font grmn1200!
+Missing character: There is no λ in font grmn1200!
+Missing character: There is no ε in font grmn1200!
+Missing character: There is no ο in font grmn1200!
+Missing character: There is no π in font grmn1200!
+Missing character: There is no α in font grmn1200!
+Missing character: There is no τ in font grmn1200!
+Missing character: There is no ρ in font grmn1200!
+Missing character: There is no α in font grmn1200!
+Missing character: There is no λ in font grmn1200!
+Missing character: There is no ε in font grmn1200!
+Missing character: There is no ξ in font grmn1200!
+Missing character: There is no α in font grmn1200!
+Missing character: There is no ν in font grmn1200!
+Missing character: There is no δ in font grmn1200!
+Missing character: There is no ρ in font grmn1200!
+Missing character: There is no ο in font grmn1200!
+Missing character: There is no ς in font grmn1200!
+Missing character: There is no … in font ec-lmr12!
+Missing character: There is no … in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+
+
+LaTeX Warning: Citation 'lettre' on page 9 undefined on input line 206.
+
+Missing character: There is no ’ in font ec-lmr12!
+[9]
+Missing character: There is no ’ in font ec-lmr10!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+ [10
+
+] [11]
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ἱ in font grmn1200!
+Missing character: There is no ε in font grmn1200!
+Missing character: There is no ρ in font grmn1200!
+Missing character: There is no ο in font grmn1200!
+Missing character: There is no γ in font grmn1200!
+Missing character: There is no λ in font grmn1200!
+Missing character: There is no υ in font grmn1200!
+Missing character: There is no φ in font grmn1200!
+Missing character: There is no ι in font grmn1200!
+Missing character: There is no κ in font grmn1200!
+Missing character: There is no ό in font grmn1200!
+Missing character: There is no ς in font grmn1200!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ἱ in font grmn1200!
+Missing character: There is no ε in font grmn1200!
+Missing character: There is no ρ in font grmn1200!
+Missing character: There is no ό in font grmn1200!
+Missing character: There is no ς in font grmn1200!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no γ in font grmn1200!
+Missing character: There is no λ in font grmn1200!
+Missing character: There is no ύ in font grmn1200!
+Missing character: There is no φ in font grmn1200!
+Missing character: There is no η in font grmn1200!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no — in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no “ in font ec-lmr12!
+Missing character: There is no ” in font ec-lmr12!
+Missing character: There is no ḏ in font ec-lmr12!
+Missing character: There is no ḥ in font ec-lmr12!
+ [1
+
+] [2
+
+]
+
+LaTeX Warning: Empty bibliography on input line 230.
+
+(./intricacies.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                intricacies
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'intricacies.run.xml'.
+ ) 
+Here is how much of TeX's memory you used:
+ 15807 strings out of 479284
+ 270027 string characters out of 5886220
+ 982486 words of memory out of 5000000
+ 33195 multiletter control sequences out of 15000+600000
+ 635356 words of font info for 219 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 38i,11n,45p,1930b,3980s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on intricacies.pdf (22 pages).
