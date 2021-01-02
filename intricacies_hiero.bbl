@@ -102,6 +102,33 @@
       \field{title}{Lost Languages: The Engima of the World's Undeciphered Scripts}
       \field{year}{2009}
     \endentry
+    \entry{scotthiero}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12586616ef674d63c94f6791d3dc03d7}{%
+           family={Scott-Moncrieff},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Philip\bibnamedelima David},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {British Museum. Dept. of Egyptian Antiquities;}%
+      }
+      \strng{namehash}{12586616ef674d63c94f6791d3dc03d7}
+      \strng{fullhash}{12586616ef674d63c94f6791d3dc03d7}
+      \strng{bibnamehash}{12586616ef674d63c94f6791d3dc03d7}
+      \strng{authorbibnamehash}{12586616ef674d63c94f6791d3dc03d7}
+      \strng{authornamehash}{12586616ef674d63c94f6791d3dc03d7}
+      \strng{authorfullhash}{12586616ef674d63c94f6791d3dc03d7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hieroglyphic Texts from Egyptian Stelae, \&c.}
+      \field{year}{1911}
+    \endentry
     \entry{wahshiyya}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2e4d34f16eac84d4597f80ba5c395dc2}{%

@@ -27,10 +27,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Numbers and dates}{32}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of bilateral hieroglyphs}{36}%
+\contentsline {chapter}{Not writing sounds}{36}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of trilateral hieroglyphs}{37}%
+\contentsline {part}{The Pharaoh’s Names, his Titles and Honorific Transposition}{38}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Solutions to exercises}{38}%
+\contentsline {part}{Appendix}{41}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Bibliography}{39}%
+\contentsline {chapter}{List of bilateral hieroglyphs}{41}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of trilateral hieroglyphs}{42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Solutions to exercises}{43}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Bibliography}{44}%

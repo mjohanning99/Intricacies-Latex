@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.11.8)  26 DEC 2020 21:51
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.11.8)  2 JAN 2021 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -49,6 +49,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen141
 \Gm@layoutvoffset=\dimen142
 \Gm@dimlist=\toks16
+)
+(/usr/share/texmf-dist/tex/generic/nth/nth.sty
+Package: nth 2002/02/27
 )
 (/usr/share/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
@@ -1251,27 +1254,27 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotelevel=\count427
 \@quotereset=\count428
 (./intricacies_hiero.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
-2.
+3.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1326,9 +1329,9 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'intricacies_hiero.bbl' found.
 
 (./intricacies_hiero.bbl)
-Package biblatex Info: Reference section=0 on input line 92.
-Package biblatex Info: Reference segment=0 on input line 92.
-LaTeX Info: Redefining \microtypecontext on input line 92.
+Package biblatex Info: Reference section=0 on input line 93.
+Package biblatex Info: Reference segment=0 on input line 93.
+LaTeX Info: Redefining \microtypecontext on input line 93.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1346,22 +1349,22 @@ File: cover.png Graphic file (type bmp)
 
 ] [2]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 116.
+(Font)              scaled to size 17.28pt on input line 117.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 17.28pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
-(Font)              scaled to size 17.28pt on input line 116.
+(Font)              scaled to size 17.28pt on input line 117.
 Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;
 mapping=tex-text;" at 17.28pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 116.
+(Font)              scaled to size 12.0pt on input line 117.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 12.0pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-16.
+17.
  (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1380,7 +1383,7 @@ Requested font "rm-lmr8" at 8.0pt
 Requested font "rm-lmr6" at 6.0pt
  -> /usr/share/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-16.
+17.
 
 (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1392,7 +1395,7 @@ Requested font "lmmi8" at 8.0pt
 Requested font "lmmi6" at 6.0pt
  -> /usr/share/texmf-dist/fonts/tfm/public/lm/lmmi6.tfm
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-116.
+117.
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1404,22 +1407,22 @@ Requested font "lmsy8" at 8.0pt
 Requested font "lmsy6" at 6.0pt
  -> /usr/share/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-116.
+117.
 
 (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 116.
+(Font)              <12> on input line 117.
 Requested font "lmex10" scaled 1000
  -> /usr/share/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 116.
+(Font)              <8> on input line 117.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 116.
+(Font)              <6> on input line 117.
  [1]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 120.
+(Font)              scaled to size 10.95pt on input line 121.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+
 smcp;mapping=tex-text;" at 10.95pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
@@ -1430,17 +1433,17 @@ Requested font "lmmi10" at 10.95pt
 Requested font "lmsy10" at 10.95pt
  -> /usr/share/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 120.
+(Font)              <10.95> on input line 121.
  [2] [3
 
 ]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 171.
+(Font)              scaled to size 24.88pt on input line 172.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 24.88pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 171.
+(Font)              scaled to size 24.88pt on input line 172.
 Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;
 mapping=tex-text;" at 24.88pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
@@ -1465,12 +1468,12 @@ mapping=tex-text;" at 12.0pt
 
 ]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 188.
+(Font)              scaled to size 10.95pt on input line 189.
 Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;
 mapping=tex-text;" at 10.95pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 190.
+(Font)              scaled to size 8.0pt on input line 191.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 8.0pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
@@ -1480,7 +1483,7 @@ apping=tex-text;" at 8.0pt
 
 ] [2]
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 218.
+(Font)              scaled to size 9.0pt on input line 219.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 9.0pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
@@ -1497,24 +1500,24 @@ Requested font "lmsy9" at 9.0pt
 Requested font "lmsy5" at 5.0pt
  -> /usr/share/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 218.
+(Font)              <9> on input line 219.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 218.
+(Font)              <5> on input line 219.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 218.
+(Font)              scaled to size 6.0pt on input line 219.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 6.0pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
  [3
 
 ]
-Overfull \hbox (3.00041pt too wide) in paragraph at lines 226--227
+Overfull \hbox (3.00041pt too wide) in paragraph at lines 227--228
 \TU/LinLibertine(0)/m/n/10.95 is in reference to the Egyptian god Thoth ‚Äî becau
 se the Ancient Greeks
  []
 
 [4] [5] [6] [7]
-Overfull \hbox (7.04823pt too wide) in paragraph at lines 268--269
+Overfull \hbox (7.04823pt too wide) in paragraph at lines 269--270
 \TU/LinLibertine(0)/m/n/10.95 ‚Ä¶ [and] [b]oth same-sounding characters must be a
 ccepted.
  []
@@ -1534,7 +1537,7 @@ File: images/img1.jpg Graphic file (type bmp)
 File: images/img2.jpg Graphic file (type bmp)
 <images/img2.jpg>
  [16]
-Overfull \hbox (1.87453pt too wide) in paragraph at lines 383--384
+Overfull \hbox (1.87453pt too wide) in paragraph at lines 384--385
 []\TU/LinLibertine(0)/m/n/10.95 Trilaterals are, thus, those hieroglyphs that r
 epresent three sounds;
  []
@@ -1545,7 +1548,7 @@ epresent three sounds;
 Missing character: There is no ‚èª in font [LinLibertine_R.otf]/OT:script=latn;la
 nguage=dflt;+tnum;+lnum;mapping=tex-text;!
 
-Overfull \hbox (4.8456pt too wide) in paragraph at lines 389--390
+Overfull \hbox (4.8456pt too wide) in paragraph at lines 390--391
 []\TU/LinLibertine(0)/m/n/10.95 English-speakers might call it ‚Äúpower button‚Äù, 
 while German speak-
  []
@@ -1555,31 +1558,37 @@ File: images/img3.jpg Graphic file (type bmp)
 <images/img3.jpg>
  [19]
 Requested font "DejaVu Sans" at 10.94997pt
- -> Ôøæ§N2@^^NV
+ -> |ÔøæµÔøøµÔøøÆ%V
 Requested font "DejaVu Sans/OT" at 10.95003pt
- -> 9Ôøøù6@^^NV
+ -> "^^A^^HÔøøØ%V
 Requested font "DejaVu Sans/OT:script=latn;language=dflt;" at 10.95001pt
- -> {W6@^^NV
+ -> ÔøøúU^^IÔøøØ%V
 Requested font "DejaVu Sans/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ÔøæÆ^^Y6@^^NV
+ -> ^^PÔøø¶^^IÔøøØ%V
 Requested font "DejaVu Sans/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> q^^V6@^^NV
+ -> ÔøøìÔøæí^^IÔøøØ%V
 Requested font "DejaVu Sans/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> Ôøøë^^[7@^^NV
+ -> ÔøæìÔøøß
+ÔøøØ%V
 Requested font "DejaVu Sans/OT:script=latn;language=dflt;" at 10.95003pt
- -> Ôøæ∂Ôøæ£1@^^NV
+ -> 2Ôøø†^^IÔøøØ%V
 Requested font "DejaVu Sans/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> AÔøøº6@^^NV
+ -> Ôøø£Ôøøá
+ÔøøØ%V
 Requested font "DejaVu Sans/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> Ôøø±^^Z7@^^NV
+ -> Ôøæ≥Ôøø¶
+ÔøøØ%V
 Requested font "DejaVu Sans/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> Ôøø±^^Z7@^^NV
+ -> Ôøæ≥Ôøø¶
+ÔøøØ%V
 Requested font "DejaVu Sans/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ÔøøÅÔøø≥6@^^NV
+ -> cÔøøè
+ÔøøØ%V
 Requested font "DejaVu Sans/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ÔøøÅÔøø≥6@^^NV
+ -> cÔøøè
+ÔøøØ%V
 Requested font "DejaVu Sans/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> O^^HÔøæ≤`^^E
+ -> !Ôøøê^^Hb^^E
 
 Package fontspec Info: Font family 'DejaVuSans(0)' created for font 'DejaVu
 (fontspec)             Sans' with options [].
@@ -1601,26 +1610,26 @@ Package fontspec Info: Font family 'DejaVuSans(0)' created for font 'DejaVu
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Requested font "DejaVu Sans/OT:script=latn;language=dflt;" at 10.95pt
- -> S^^W=@^^NV
+ -> vÔøæï^^DÔøøØ%V
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `DejaVuSans' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [20] [21] [22]
-Underfull \hbox (badness 10000) in paragraph at lines 508--509
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
 []|\TU/LinLibertine(0)/m/n/10.95 like ‚Äútsh‚Äù or ‚Äútch‚Äù (hatch,
  []
 
 [23
 
 ] [24]
-Overfull \hbox (2.26414pt too wide) in paragraph at lines 522--523
+Overfull \hbox (2.26414pt too wide) in paragraph at lines 523--524
 [] []|\TU/LinLibertine(0)/m/n/10.95 ,  []|. Originally, these two signs would h
 ave been pronounced
  []
 
 [25] [26]
-Overfull \hbox (19.97807pt too wide) detected at line 571
+Overfull \hbox (19.97807pt too wide) detected at line 572
 [][][][]
  []
 
@@ -1629,7 +1638,7 @@ Overfull \hbox (19.97807pt too wide) detected at line 571
 ] [29] [30
 
 ]
-Overfull \hbox (1.50514pt too wide) in paragraph at lines 658--659
+Overfull \hbox (1.50514pt too wide) in paragraph at lines 659--660
 \TU/LinLibertine(0)/m/n/10.95 that were possible; Ancient Egyptian spelling was
  rather flexible, these
  []
@@ -1640,40 +1649,55 @@ Overfull \hbox (1.50514pt too wide) in paragraph at lines 658--659
 File: images/img5.jpg Graphic file (type bmp)
 <images/img5.jpg>
 
-Underfull \hbox (badness 2698) in paragraph at lines 697--698
+Underfull \hbox (badness 2698) in paragraph at lines 698--699
 \TU/LinLibertine(0)/m/n/10.95 ferently from ours. Unlike the
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 697--698
+Underfull \hbox (badness 1173) in paragraph at lines 698--699
 \TU/LinLibertine(0)/m/n/10.95 year of inauguration of the then
  []
 
-[33] [34] [35
-
-] [36
+[33]
+Requested font "DejaVu Sans/I/OT:script=latn;language=dflt;" at 10.95pt
+ -> ^^CÔøøº^^[ÔøøØ%V
+ [34] [35] [36
 
 ] [37
 
-] [38
+]
+Missing character: There is no Íú• in font [LinLibertine_R.otf]/OT:script=latn;la
+nguage=dflt;+tnum;+lnum;mapping=tex-text;!
+Missing character: There is no Íú£ in font [LinLibertine_R.otf]/OT:script=latn;la
+nguage=dflt;+tnum;+lnum;mapping=tex-text;!
+Missing character: There is no Íú• in font [LinLibertine_R.otf]/OT:script=latn;la
+nguage=dflt;+tnum;+lnum;mapping=tex-text;!
+ [38] [39] [40
+
+] [41
+
+] [42
+
+] [43
 
 ]
 LaTeX Font Info:    Font shape `TU/LinLibertine(5)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 767.
+(Font)              scaled to size 10.95pt on input line 818.
 Requested font "[LinLibertine_M.otf]/OT:script=latn;language=dflt;" at 10.95pt
  -> /usr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_M.otf
- [39
+ [44
 
-] [40] (./intricacies_hiero.aux)
+] [45]
+(./intricacies_hiero.aux)
 Package logreq Info: Writing requests to 'intricacies_hiero.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 28105 strings out of 479284
- 576669 string characters out of 5886220
- 1257058 words of memory out of 5000000
- 45359 multiletter control sequences out of 15000+600000
- 591113 words of font info for 259 fonts, out of 8000000 for 9000
+ 28130 strings out of 479284
+ 577135 string characters out of 5886220
+ 1257285 words of memory out of 5000000
+ 45379 multiletter control sequences out of 15000+600000
+ 591121 words of font info for 260 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 61i,12n,107p,1235b,6325s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,12n,107p,1366b,4907s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on intricacies_hiero.pdf (50 pages).
+Output written on intricacies_hiero.pdf (55 pages).

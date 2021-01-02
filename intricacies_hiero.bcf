@@ -2198,6 +2198,8 @@
     <bcf:citekey order="12">NYC:Ernst_Grab54</bcf:citekey>
     <bcf:citekey order="13">NYC:Ernst_Ptolost</bcf:citekey>
     <bcf:citekey order="14">NYC:Ernst_Ptolost</bcf:citekey>
+    <bcf:citekey order="15">scotthiero</bcf:citekey>
+    <bcf:citekey order="16">scotthiero</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
